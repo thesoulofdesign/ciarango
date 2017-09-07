@@ -1,0 +1,10 @@
+{
+    "name": "sunil/libraries",
+    "authors": [
+        {
+            "name": "sunil",
+            "email": "sunilthedj@gmail.com"
+        }
+    ],
+    "require": {}
+}
