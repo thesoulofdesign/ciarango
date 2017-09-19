@@ -52,4 +52,6 @@ class Welcome extends CI_Controller {
         //Finally Inserting data into the collection 'example'
         $arango->insert('example',$data);
     }
+
+
 }
